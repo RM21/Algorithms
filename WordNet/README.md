@@ -10,3 +10,8 @@ Outcast.java
 Given an outcast file(a file where the first two lines specify a synset list and a hypernym list, followed by a set of nouns)
 the outcast noun from the set of given nouns will be returned.  Outcast meaning, the noun which is most unlike any other noun in
 the list.
+
+---- Files from Stanford's algs4.jar library ----
+BreadthFirstDirectedPaths.java
+Queue.java
+Digraph.java
