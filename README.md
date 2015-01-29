@@ -7,3 +7,6 @@ WordNet:  Program which creates a relationship graph between nouns and synonyms.
 
 SeamCarver: Program which allows for seam carving for a given picture file.
 Seam-carving is a content-aware image resizing technique where the image is reduced in size by one pixel of height (or width) at a time. 
+
+Percolation: Program which determines whether or not an N*N grid percolates.
+Useful for determining the minimal amount of resources statistically required to acquire connectedness.
